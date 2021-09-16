@@ -1,0 +1,29 @@
+#image201{
+ border: 10px inset rgb(145, 124, 184);
+ margin:0%;
+ padding:0%;
+}
+#table201
+{   
+    background-color: darkgrey;
+    border:rgb(214, 154, 111) outset 15px;
+}
+h1{
+    text-shadow: cornflowerblue 2px 2px;
+    letter-spacing: 5px;
+    background-color: rosybrown;
+}
+tr{
+    border:darkblue ;
+    }
+th{
+    border: rgb(82, 75, 71) solid;
+}
+td{
+    border:rgb(94, 84, 82) solid;
+    letter-spacing: 3px;
+text-align: initial;
+text-transform: uppercase;
+
+
+}

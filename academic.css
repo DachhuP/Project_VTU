@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+#li201{
+    background-color: rgb(214, 210, 149);
+}
+table{
+    background-color: coral;
+    }
+    .blinking{
+        animation:blinkingText 1s
+        infinite}
+        @keyframes blinkingText{
+            0%{color: #000;}
+            49%{color: #000;}
+            60%{color: transparent;}
+            99%{color: transparent;}
+            100%{color: #000;}
+
+       
+    }
